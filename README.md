@@ -26,7 +26,9 @@ This project explores restaurant trends, pricing, customer preferences, and perf
 ✅ Votes per Restaurant - Average customer votes per restaurant.
 
 🌍 Geographic & Performance Insights
+
 ✅ Restaurant Distribution by City & Country - Identifying high-density areas.
+
 ✅ Top Rated Countries (Avg. Ratings) - Countries with the best-rated restaurants.
 
 ✅ Cost Distribution by Restaurant - Analyzing pricing variations across restaurants.
