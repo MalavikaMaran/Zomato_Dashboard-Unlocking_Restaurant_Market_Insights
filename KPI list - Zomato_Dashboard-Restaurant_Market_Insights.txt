@@ -1,0 +1,29 @@
+KPI's Implemented
+1. Create country Map Table
+2. Create Calendar Table [Help from Date_Key]:
+   Add all the below Columns in the Calendar Table using the Formulas.
+   	A. Year
+   	B. MonthNo
+   	C. MonthFullName
+   	D. Quarter [Q1,Q2,Q3,Q4]
+   	E. Year-Month [YYYY-MMM]
+   	F. WeekdayNo
+   	G. WeekdayName
+   	H. FinancialMonth [e.g.April=FM1, May=FM2...March = FM12]
+   	I. Financial Quarter [Qtr based on Financial Month]
+3.Find the Numbers of Restaurants based on City and Country. [e.g. Top 3 cities / No.1 Country]
+4.Numbers of Restaurants opening based on Year , Quarter , Month [Sales_Growth]
+5. Count of Restaurants based on Average Ratings [Categorize the Ratings]
+6. Create buckets based on Average Cost and find out how many restaurants falls in each buckets
+7.Percentage of Restaurants based on "Has_Table_booking"
+8.Percentage of Restaurants based on "Has_Online_delivery"
+9. Develop Charts based on Cuisines, City, Ratings
+
+
+**** KPI are not limited only to above , Can experiment on the other KPI as well.
+Such as; 
+1. Top leading cities To find overall Online Delivery[Y/N]
+2. Based on Average Ratings find how many countries fall to it.
+
+
+
